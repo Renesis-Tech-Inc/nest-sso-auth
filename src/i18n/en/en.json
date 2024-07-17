@@ -1,0 +1,42 @@
+{
+    "welcome": "Welcome to our application!",
+    "USER_CREATED": "Registeration successful",
+    "USER_LOGIN": "User login successfully",
+    "USER_IDENTIFIED": "User identify successfully",
+    "USER_UPDATED": "User updated successfully",
+    "USER_VERIFIED": "User verified successfully!",
+    "PROFILE_FETCHED": "Profile details",
+    "PROFILE_UPDATED": "Profile updated successfully",
+    
+    "IMAGE_UPDATED": "Image updated successfully",
+    
+    "PASSWORD_UPDATED": "Password updated successfully",
+    "PASSWORD_RESET_EMAIL": "Password reset email sent.",
+    "OTP_VERIFIED": "OTP verified successfully",
+    "OTP_RESEND": "OTP resent successfully. Please check your inbox.",
+    "VERIFY_EMAIL_SUBJECT": "Email verification",
+    "FORGOT_PASSWORD_EMAIL_SUBJECT": "Password reset email",
+    
+    
+    "ACCOUNT_EXISTS": "User already exists.",
+    "USER_NOT_EXISTS": "User does not exist!",
+    "USER_NOT_VERIFIED": "Email is not verified yet. Please check your email.",
+    "USER_ALREADY_EXISTS": "User already exists.",
+    "INVALID_EMAIL": "Invalid email",
+    "INVALID_OTP": "Invalid OTP.",
+    "OTP_EXPIRED": "OTP expired. Request a new one",
+    "REUSE_OTP": "Unable to request new OTP. Please wait until previous OTP expires.",
+    "INVALID_PASSWORD": "Invalid password.",
+    "INVALID_OLD_PASSWORD": "The current password is incorrect. Please verify and try again.",
+    "INVALID_TOKEN": "Unauthorized access: Token not found",
+    "UNNATHORIZED_USER": "Unauthorized access: User does not exist",
+    "UNATHORIZE_ACCESS": "Unauthorized access",
+    "TOKEN_EXPIRED": "Token expired.",
+    "SYSTEM_ERROR": "Something went wrong!",
+    "INTERNAL_SERVER_EXCEPTION": "Some thing went wrong.",
+    "REGISTER_EMAIL_SUBJECT": "Welcome to Your SSO AUTH: Confirm Your Registration",
+    "ACCOUNT_LINKING_SUBJECT": "Welcome to Your SSO AUTH: Confirm Your Email",
+    "RESEND_OTP_EMAIL_SUBJECT": "Welcome to Your SSO AUTH: Resend OTP  Email Sent!",
+    "PASSWORD_RESET_CONFIRMATION_EMAIL_SUBJECT": "Welcome to Your SSO AUTH: Password Reset Confirmation",
+    "DOCUMENT_CONVERSION_SUBJECT": "Welcome to Your SSO AUTH: Document Conversion"
+}

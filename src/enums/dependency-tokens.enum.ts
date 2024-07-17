@@ -1,0 +1,8 @@
+export enum EDependencyTokens {
+  HTTP_ADAPTER_HOST = 'HttpAdapterHost',
+  REFLECTOR = 'Reflector',
+  DB_CONNECTION_TOKEN = 'DbConnectionToken',
+  DB_MODEL_TOKEN_SUFFIX = 'ModelToken',
+  MONGO_SESSION_KEY = 'MONGO_SESSION_KEY',
+  ALLOW_UNAUTHORIZED_REQUEST = 'ALLOW_UNAUTHORIZED_REQUEST',
+}

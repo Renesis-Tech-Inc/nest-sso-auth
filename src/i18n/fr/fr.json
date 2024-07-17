@@ -1,0 +1,42 @@
+{
+    "welcome": "Bienvenue dans notre application!",
+    "USER_CREATED": "Inscription réussie",
+    "USER_LOGIN": "Connexion utilisateur réussie",
+    "USER_IDENTIFIED": "Identification de l'utilisateur réussie",
+    "USER_UPDATED": "Utilisateur mis à jour avec succès",
+    "USER_VERIFIED": "Utilisateur vérifié avec succès!",
+    "PROFILE_FETCHED": "Détails du profil",
+    "PROFILE_UPDATED": "Profil mis à jour avec succès",
+    
+    "IMAGE_UPDATED": "Image mise à jour avec succès",
+    
+    "PASSWORD_UPDATED": "Mot de passe mis à jour avec succès",
+    "PASSWORD_RESET_EMAIL": "Email de réinitialisation de mot de passe envoyé.",
+    "OTP_VERIFIED": "OTP vérifié avec succès",
+    "OTP_RESEND": "OTP renvoyé avec succès. Veuillez vérifier votre boîte de réception.",
+    "VERIFY_EMAIL_SUBJECT": "Vérification de l'email",
+    "FORGOT_PASSWORD_EMAIL_SUBJECT": "Email de réinitialisation de mot de passe",
+    
+    
+    "ACCOUNT_EXISTS": "L'utilisateur existe déjà.",
+    "USER_NOT_EXISTS": "L'utilisateur n'existe pas!",
+    "USER_NOT_VERIFIED": "L'email n'est pas encore vérifié. Veuillez vérifier votre email.",
+    "USER_ALREADY_EXISTS": "L'utilisateur existe déjà.",
+    "INVALID_EMAIL": "Email invalide",
+    "INVALID_OTP": "OTP invalide.",
+    "OTP_EXPIRED": "OTP expiré. Demandez-en un nouveau",
+    "REUSE_OTP": "Impossible de demander un nouvel OTP. Veuillez attendre que l'OTP précédent expire.",
+    "INVALID_PASSWORD": "Mot de passe invalide.",
+    "INVALID_OLD_PASSWORD": "L'ancien mot de passe est incorrect. Veuillez vérifier et réessayer.",
+    "INVALID_TOKEN": "Accès non autorisé : Token introuvable",
+    "UNNATHORIZED_USER": "Accès non autorisé : L'utilisateur n'existe pas",
+    "UNATHORIZE_ACCESS": "Accès non autorisé",
+    "TOKEN_EXPIRED": "Token expiré.",
+    "SYSTEM_ERROR": "Quelque chose s'est mal passé!",
+    "INTERNAL_SERVER_EXCEPTION": "Quelque chose s'est mal passé.",
+    "REGISTER_EMAIL_SUBJECT": "Bienvenue dans votre extraction de texte IA : Confirmez votre inscription",
+    "ACCOUNT_LINKING_SUBJECT": "Welcome to Your SSO AUTH: Confirm Your Email",
+    "RESEND_OTP_EMAIL_SUBJECT": "Bienvenue dans votre extraction de texte IA : Email de renvoi d'OTP envoyé !",
+    "PASSWORD_RESET_CONFIRMATION_EMAIL_SUBJECT": "Bienvenue dans votre extraction de texte IA : Confirmation de réinitialisation de mot de passe"
+    
+}
